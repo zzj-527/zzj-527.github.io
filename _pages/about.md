@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 Zijian Zhou, a Ph.D. student at Shanghai University specializing in Computer Science and Technology. I am deeply passionate about the fields of artificial intelligence and unmanned systems. My current research is centered on creating robust sim-to-real transfer methods, enabling unmanned systems to make effective behavioral decisions in complex, real-world scenarios.
