@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-CN"
 site_theme               : "default"
 title                    : "Zijian Zhou / Home Site"
 title_separator          : "-"
